@@ -2,3 +2,5 @@
 Moje pierwsze repozytorium GIT
 
 i love :coffee: :pizza:, and :beer:
+
+a tu znowu coś napisałem sobie
